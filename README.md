@@ -6,4 +6,4 @@ this program for displaying pictures in TFT lcd display is presented. Arduino me
 4. Install the necessary libraries and make the instructed changes
 5. Upload the given code to the arduino mega 
 It's done....enjoy!
-Watch the video to learn more: 
+Watch the video to learn more: https://youtu.be/gN1B9ZesZ1Q
